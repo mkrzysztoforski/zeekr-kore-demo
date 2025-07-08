@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.avatar-variations-footer {
+  bottom: 40px!important;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
