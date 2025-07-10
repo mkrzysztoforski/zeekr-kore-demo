@@ -20,8 +20,8 @@ const QrBot = () => {
   return (
     <div
       style={{
-        backgroundColor: '#fafafa',
-        height: '100vh',
+        backgroundColor: '#fff',
+        height: '90vh',
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
@@ -29,11 +29,11 @@ const QrBot = () => {
         textAlign: 'center',
       }}
     >
-      <h1 style={{ fontSize: '1.5rem' }}>Let's schedule your test drive!</h1>
+      <h1 style={{ fontSize: '1.5rem' }}>Ready to schedule your test drive?</h1>
       <img
         src="/Zeekr_logo.png"
         alt="Screenshot of the chat"
-        style={{ maxWidth: '300px', marginTop: '1rem', borderRadius: '8px' }}
+        style={{ maxWidth: '300px', marginTop: '1rem' }}
       />
     </div>
   );
