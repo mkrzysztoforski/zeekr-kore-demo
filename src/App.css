@@ -28,9 +28,8 @@
   color: #61dafb;
 }
 
-/* fix me to 40px */
 .avatar-variations-footer {
-  bottom: 80px!important;
+  bottom: 40px!important;
 }
 
 @keyframes App-logo-spin {
