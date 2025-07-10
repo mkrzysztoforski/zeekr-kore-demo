@@ -23,10 +23,11 @@ function App() {
   };
 }, []);
 
+// change the background image to a full-screen image
   return (
     <div
       style={{
-        backgroundImage: `url('/bg.png')`,
+        backgroundImage: `url('/bg.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
